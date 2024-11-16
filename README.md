@@ -1,0 +1,2 @@
+- easy to use
+- run the jupyter notebook on colab or VS Code
